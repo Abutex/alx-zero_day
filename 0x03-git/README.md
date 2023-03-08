@@ -1,1 +1,1 @@
- I love Alx like a newborn baby
+“Starting to code today, so cool”
